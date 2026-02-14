@@ -6,7 +6,7 @@ Email Me 👉 ✉ *harshitpandey4644* For Collaboration/Project or Anything Else
 - 🔭 *I’m currently working on:* ChatGPT Project
 - 🌱 *I’m currently learning:* DSA in C++
 - 👯 *I’m looking to collaborate on:* ChatGPT
-- 🤔 *I’m looking for help with:* Your project here
+- 🤔 *I’m looking for help with:* airbnb
 - 💬 *Ask me about:* Collaboration, Tech Support
 - 📫 *How to reach me:* harshitpandey4644@gmail.com
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
